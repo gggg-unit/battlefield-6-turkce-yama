@@ -2,4 +2,5 @@
 /scripts export-ignore
 /metadata export-ignore
 /RELEASE_NOTES.md export-ignore
+/CHANGELOG.md export-ignore
 /NOTICE export-ignore
