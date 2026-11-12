@@ -1,0 +1,7 @@
+dist/
+__pycache__/
+*.pyc
+*.log
+original-input/
+.env
+dist-clean/

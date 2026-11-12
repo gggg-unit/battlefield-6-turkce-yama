@@ -1,0 +1,50 @@
+[
+  {
+    "variant": "EA-GamePass",
+    "path": "SP/dxgi.dll",
+    "bytes": 104960,
+    "sha256": "ecb82249201007bcb2d33035143f2f0bab628bdc223c26fe7f3492c34b8a2ae6"
+  },
+  {
+    "variant": "EA-GamePass",
+    "path": "SP/Runtime_Win64_Func.dat",
+    "bytes": 55592,
+    "sha256": "93671abeb54a43ca15fdc31e1b93f86e285b743f0b172f7808aa52b7c41be630"
+  },
+  {
+    "variant": "EA-GamePass",
+    "path": "SP/Runtime_Win64_Sys.dat",
+    "bytes": 3754839,
+    "sha256": "53c30ef996332b194abab9783492378cb2a2cad78e8cf33bc437a1a3827e96c3"
+  },
+  {
+    "variant": "EA-GamePass",
+    "path": "SP/Runtime_Win64_Sys.dll",
+    "bytes": 94208,
+    "sha256": "032e6c5c0c6a1c355d7c9e502f298b4db8ce69b393a826b029b45824685c71bc"
+  },
+  {
+    "variant": "Steam-Epic-GOG",
+    "path": "SP/Runtime_Win64_Func.dat",
+    "bytes": 55592,
+    "sha256": "93671abeb54a43ca15fdc31e1b93f86e285b743f0b172f7808aa52b7c41be630"
+  },
+  {
+    "variant": "Steam-Epic-GOG",
+    "path": "SP/Runtime_Win64_Sys.dat",
+    "bytes": 3754839,
+    "sha256": "53c30ef996332b194abab9783492378cb2a2cad78e8cf33bc437a1a3827e96c3"
+  },
+  {
+    "variant": "Steam-Epic-GOG",
+    "path": "SP/Runtime_Win64_Sys.dll",
+    "bytes": 94208,
+    "sha256": "24acebd5cc0c17c64ea36d704b477f5dcafa200fe124a439d7072d784adcce61"
+  },
+  {
+    "variant": "Steam-Epic-GOG",
+    "path": "SP/version.dll",
+    "bytes": 107520,
+    "sha256": "7b54615e13f8afb4398416a8526cf888e0efcefc8f8e61daca7c75eb9f988f94"
+  }
+]
